@@ -1,0 +1,12 @@
+@import '../scss/base/reset';
+@import '../scss/base/var';
+@import '../scss/base/typo';
+@import '../scss/base/mixin';
+@import '../scss/base/preset';
+
+@import '../scss/layout/header.scss';
+@import '../scss/layout/footer.scss';
+
+@import '../scss/page/main.scss'
+
+//이름 앞에 언더바를 붙이면 컴포넌트가 안됨 그래서 common 되고 있음
